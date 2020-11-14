@@ -23,4 +23,4 @@ function App() {
   );
 }
 
-export default App; // Hello
+export default App; // Hello bot
